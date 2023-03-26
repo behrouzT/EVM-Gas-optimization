@@ -1,8 +1,6 @@
-# EVM Gas optimization tricks whit more detailed
+# Tips for optimizing gas usage on the Ethereum Virtual Machine (EVM)
 
-The goal of this repository is to compile all evm gas optimization tricks and resources for learning about them.
-
-Feel free to submit a pull request, with anything from small fixes to docs or tools you'd like to add.
+This repository aims to gather all the tips and resources related to optimizing gas usage on the Ethereum Virtual Machine (EVM). Anyone can contribute to this repository by submitting a pull request with any updates, including minor document fixes or new tools to be added.
 
 [![Follow me](https://img.shields.io/badge/linkedin-follow%20me-blue)](https://www.linkedin.com/in/behrouz-torabi-409500173/)
 
