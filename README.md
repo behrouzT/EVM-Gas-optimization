@@ -4,7 +4,7 @@ The goal of this repository is to compile all evm gas optimization tricks and re
 
 Feel free to submit a pull request, with anything from small fixes to docs or tools you'd like to add.
 
-[![Follow me](linkedin.com/in/behrouz-torabi-409500173)](https://github.com/harendra-shakya/support/blob/main/README.md)
+[![Follow me](https://img.shields.io/badge/linkedin-follow%20me-blue)](https://www.linkedin.com/in/behrouz-torabi-409500173/)
 
 ## Main Gas optimization areas in solidity
 
